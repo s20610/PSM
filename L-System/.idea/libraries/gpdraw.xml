@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gpdraw">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gpdraw.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
